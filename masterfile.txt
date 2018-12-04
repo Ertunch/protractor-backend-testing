@@ -1,4 +1,5 @@
 This file has been created on master branch.
 And modified for Rebasing
 After rebasing changing this file from myfeature branch
-Before rebase conflicts.
+Deleted this line from master branch.
+more lines from master branch
