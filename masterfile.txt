@@ -3,3 +3,4 @@ And modified for Rebasing
 After rebasing changing this file from myfeature branch
 Deleted this line from master branch.
 more lines from master branch
+Local modify the file.
